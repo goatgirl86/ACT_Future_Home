@@ -1,0 +1,6 @@
+Region,Year,Month,Food,Alcoholic_beverages,Housing,Apparel,Transportation,Healthcare,Entertainment,Education_and_communication,Other_goods_and_services
+Western,1982-1984,original amount,3066.02,216.45,8135.74,1516.13,4942.43,958.26,3232.92,891.18,2730.89
+Northeast,1982-1984,original amount,3166.44,236.37,8549.82,1569.15,4490.56,981.02,2544.16,1494.82,2604.92
+Midwest,1982-1984,original amount,2860.14,202.07,8269.61,1482.23,4893.73,1111.88,2820.72,825.78,2616.47
+South,1982-1984,original amount,2619.93,172.3,7762.02,1041.27,4851.84,1034.78,2234.64,841.59,2385.87
+All,1982-1984,original amount,2863.62,198.43,7980.55,1332.65,4813.99,1018.24,2631.94,963.55,2532.92
